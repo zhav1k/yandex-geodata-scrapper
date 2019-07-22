@@ -1,4 +1,4 @@
-This is a yandex geocoder, which is used to obtain location coordicates (longitude and latitude) by it's address.
+This is a yandex geocoder,written in Python 3, which is used to obtain location coordicates (longitude and latitude) by it's address.
 # How to Use
 
 1. First of all, you need to get an API_KEY by registering on https://developer.tech.yandex.ru
